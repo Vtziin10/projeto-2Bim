@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "120029325358",
+    "firebase_url": "https://segundobim-3d711-default-rtdb.firebaseio.com",
+    "project_id": "segundobim-3d711",
+    "storage_bucket": "segundobim-3d711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120029325358:android:51f3988c7464d5239f97bf",
+        "android_client_info": {
+          "package_name": "com.example.airton"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyLJlgxgxn02kluQC-83RAnDqs-ivBSMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
